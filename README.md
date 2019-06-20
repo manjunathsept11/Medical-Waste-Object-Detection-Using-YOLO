@@ -1,7 +1,7 @@
 # Medical-Wate-Object-Detection-Using-YOLO
 The model identifies the 8 different medical waste objects includes syringe, blooded cotton, vial, IV tubes etc. The training is done using YOLO v2 on 1500+ images.
 
-![Medical Waste Object Detector](Images//Mod.gif)
+![Medical Waste Object Detector](Images//uno.gif)
 ## Introduction
 It is every individual’s desire to have their home as well as vicinity clean and tidy.
 It creates a fresh aura in the surroundings which enables a healthy and hygienic of living.
